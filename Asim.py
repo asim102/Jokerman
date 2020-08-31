@@ -101,7 +101,7 @@ print  """
 """
 
 CorrectUsername = "Subscribe"
-CorrectPassword = "Ok1170"
+CorrectPassword = "1500"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
